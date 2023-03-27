@@ -2,6 +2,9 @@
 
 
 ## Kitchen Chaos
+https://user-images.githubusercontent.com/93190355/227949613-76453b08-7b75-48a5-802c-5ed699cf3049.mp4
+
+
 Based on the [video](https://youtu.be/AmGSEH7QcDg) of the Code Monkey YouTube channel, the Kitchen Chaos project was completed.
 
 ## Pacman

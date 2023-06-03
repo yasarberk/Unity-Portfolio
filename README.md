@@ -1,5 +1,11 @@
 # Unity-Portfolio
 
+## Fruit Ninja Clone
+
+
+https://github.com/yasarberk/Unity-Portfolio/assets/93190355/63e397b9-9d5f-4b3f-9c14-65897caff825
+
+
 
 ## Kitchen Chaos
 https://user-images.githubusercontent.com/93190355/227949613-76453b08-7b75-48a5-802c-5ed699cf3049.mp4
